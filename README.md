@@ -1,2 +1,4 @@
 # Einstein_robot.
 一个根据爱因斯坦传记和langchain结合的爱因斯坦，表现地更真实。你也可以将知识库和system换为其它，与你喜欢的人物或者资料进行连续的对话
+
+更新的版本中加入了情感分析和永久性的历史聊天存储和无限制的聊天轮数，情感分析基于EmoRoBERTa实现，历史聊天存储和无限制聊天轮数通过OpenAI embeding和Langchain实现
